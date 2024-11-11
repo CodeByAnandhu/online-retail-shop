@@ -1,0 +1,23 @@
+{
+  "name": "online-retail-shop",
+  "version": "1.0.0",
+  "description": "This is a online retail shop",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Anandhu.AB",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mockgoose": "^8.0.4",
+    "mockingoose": "^2.16.2",
+    "mongoose": "^8.8.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "mongodb-memory-server": "^10.1.2",
+    "supertest": "^7.0.0"
+  }
+}
